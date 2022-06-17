@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{B45E6EC4-D90A-462C-9087-564CE099D85D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Website/Startup.cs">
+    <Files>
+      <File FileName="Website/Views/_LayoutPage1.cshtml" Line="4" Column="17" />
+      <File FileName="Website/Views/Home/Index.cshtml" />
+      <File FileName="Website/Program.cs" />
+      <File FileName="Website/Startup.cs" Line="1" Column="1" />
+      <File FileName="Website/appsettings.json" />
+      <File FileName="Website/Views/_ViewStart.cshtml" />
+      <File FileName="Website/Views/_ViewImports.cshtml" />
+      <File FileName="Website/Properties/launchSettings.json" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Website" expanded="True">
+            <Node name="Website" expanded="True">
+              <Node name="Views" expanded="True" />
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+                <Node name="js" expanded="True" />
+              </Node>
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Website PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
